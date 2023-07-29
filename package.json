@@ -1,0 +1,22 @@
+{
+  "name": "playwright_workshop",
+  "version": "1.0.0",
+  "description": "Playwright_workshop",
+  "private": true,
+  "scripts": {
+    "test": "npx playwright test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RomaVezhel/playwright_workshop.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RomaVezhel/playwright_workshop/issues"
+  },
+  "homepage": "https://github.com/RomaVezhel/playwright_workshop#readme",
+  "dependencies": {
+    "@playwright/test": "1.36.2"
+  }
+}
